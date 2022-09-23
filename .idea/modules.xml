@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../byhy/autotest_bysms_02/.idea/autotest_bysms_02.iml" filepath="$PROJECT_DIR$/../../byhy/autotest_bysms_02/.idea/autotest_bysms_02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fastbull自动化/.idea/fastbull自动化.iml" filepath="$PROJECT_DIR$/../fastbull自动化/.idea/fastbull自动化.iml" />
+      <module fileurl="file://$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" filepath="$USER_HOME$/PycharmProjects/pythonProject/.idea/pythonProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../接口自动化/.idea/接口自动化.iml" filepath="$PROJECT_DIR$/../接口自动化/.idea/接口自动化.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../数据库/.idea/数据库.iml" filepath="$PROJECT_DIR$/../数据库/.idea/数据库.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/汇聊接口自动化.iml" filepath="$PROJECT_DIR$/.idea/汇聊接口自动化.iml" />
+    </modules>
+  </component>
+</project>
